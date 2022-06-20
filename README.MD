@@ -1,4 +1,4 @@
-This repository contains the following implementations of AES-128 in C / c++.
+This repository contains the following implementations of AES-128 in C / C++.
 
 1. AES-128 simple, no padding
 2. AES-128 32bit, optimized for 32b architectures using T-boxes
